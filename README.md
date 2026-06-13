@@ -202,7 +202,7 @@ cd frontend && npm run dev
 ## 👩‍💻 Built By
 
 **Kinnari Dobariya**
-Agents League Hackathon 2026 — Creative Apps Track
+For Agents League Hackathon 2026 — Creative Apps Track
 Hosted by Microsoft · June 4–14, 2026
 
 ---
