@@ -1,0 +1,6 @@
+{
+  "name": "Gem Aura",
+  "description": "An avant-garde diamond jewelry advisory and real-time virtual try-on application. Customizes gemstone shapes, colors, and arrangements based on your unique personality, appearance, birthstone, and occasion.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
